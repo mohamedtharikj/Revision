@@ -9,6 +9,9 @@ private void name() {
 private void age() {
 	System.out.println("my age is 22");
 }
+private void email() {
+	System.out.println("tharikt720@gmail.com");
+}
 
 public static void main(String[] args) {
 	Sample s=new Sample();
